@@ -1,28 +1,3 @@
-/**{
-	box-sizing: border-box;
-	padding: 10px;
-	margin: 10px;
-}
-
-
-#sec1, #sec2, #sec3 {
-	width:33.33%;
-	border:1px solid black;
-	margin:10px;
-
-}
-
-.itemname{
-	border:1px solid black;
-	float:right;
-	
-}
-
-.data{
-	clear:right;
-}*/
-
-
 /********** Base styles **********/
 * {
   box-sizing: border-box;
