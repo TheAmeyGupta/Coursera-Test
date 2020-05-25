@@ -1,0 +1,16 @@
+header{
+	background-color: grey;
+}
+
+navbar-brand{
+	font-size: small;
+}
+
+.card{
+	background-color: grey;
+}
+
+.navbar-brand{
+	font-size:200%;
+	font-weight: bold;
+}
